@@ -1,0 +1,17 @@
+{
+  "name": "vite-jsx-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.14",
+    "@testing-library/svelte": "^3.0.3",
+    "svelte": "^3.41.0",
+    "typescript": "^4.3.2",
+    "vite": "^2.4.4",
+    "vite-svelte-jsx": "^1.0.2"
+  }
+}
