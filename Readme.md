@@ -1,3 +1,5 @@
 # Commands to run
-yarn
+```shell
+yarn  
 vite
+```
